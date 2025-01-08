@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Vivek/OneDrive/Desktop/New folder (2)",
-      "program": "c:/Users/Vivek/OneDrive/Desktop/New folder (2)/build/Debug/outDebug",
+      "cwd": "c:/Users/Vivek/OneDrive/Desktop/New folder (2)/.dist/dsaincpp/sorting problem/questionpracticeo",
+      "program": "c:/Users/Vivek/OneDrive/Desktop/New folder (2)/.dist/dsaincpp/sorting problem/questionpracticeo/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

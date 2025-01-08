@@ -1,0 +1,1 @@
+ // result=pow(2,l);
